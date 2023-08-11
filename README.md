@@ -1,4 +1,4 @@
 # LeetCode
 This is all of my LeetCode solutions!
 
-[my leetcode](https://leetcode.com/acsj/)
+[my leetcode](https://leetcode.com/acsj/@blank)
